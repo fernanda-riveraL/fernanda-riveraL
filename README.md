@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! I'm Fernanda 👋
 
-<!--
-**fernanda-riveraL/fernanda-riveraL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science & Engineering** student 🇨🇱  
+💻 Focused on software development, algorithms, and data structures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+- **Languages:** Python, C++, Java
+- **Tools & Environment:** Git, GitHub, Visual Studio Code
+
+---
+
+### 📌 About Me
+- 🔭 **Currently working on:** University projects and hands-on software development.
+- 🌱 **Currently learning:** Advanced Object-Oriented Programming and systems architecture.
+- 💬 **Ask me about:** Algorithms, programming logic, or Python/C++/Java projects.
+- 📫 **How to reach me:** fefii.rivera@gmail.com
+- 😄 **Pronouns:** She / Her
